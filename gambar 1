@@ -1,2 +1,2 @@
 import streamlit as st
-st.image("1.jpeg")
+st.image("background_search.jpeg")
